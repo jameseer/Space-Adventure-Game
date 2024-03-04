@@ -1,0 +1,25 @@
+{
+  "name": "space-adventure-game",
+  "version": "1.0.0",
+  "description": "Embark on an epic journey across the vast reaches of space in \"Galactic Conquest.\" Assume the role of a courageous space explorer tasked with defending humanity against extraterrestrial threats. As you traverse through uncharted territories, engage in intense battles with alien invaders using an arsenal of futuristic weapons and strategic prowess. Navigate through treacherous asteroid fields, ancient ruins, and hostile planets, all while managing your spaceship's resources and upgrading your equipment. Will you emerge as the savior of the galaxy or succumb to the overwhelming forces of the unknown?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jameseer/Space-Adventure-Game"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "redux": "^4.1.0",
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "express": "^4.17.1",
+    "adventurequest": "1.0.0"
+  }
+}
